@@ -1,4 +1,4 @@
-[info] Updating {file:/Users/fukuharahisashi/weather-bot/weather-bot/project/}weather-bot-build...
+[info] Updating {file:/Users/fukuharahisashi/work/weather-bot/weather-bot/project/}weather-bot-build...
 [debug] :: resolving dependencies :: default#weather-bot-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -6074,19 +6074,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 2268ms :: artifacts dl 47ms
-[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT compile produced in /Users/fukuharahisashi/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-compile.xml
-[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT runtime produced in /Users/fukuharahisashi/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-runtime.xml
-[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT test produced in /Users/fukuharahisashi/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-test.xml
-[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT provided produced in /Users/fukuharahisashi/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-provided.xml
-[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT optional produced in /Users/fukuharahisashi/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-optional.xml
-[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT compile-internal produced in /Users/fukuharahisashi/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-compile-internal.xml
-[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT runtime-internal produced in /Users/fukuharahisashi/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-runtime-internal.xml
-[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT test-internal produced in /Users/fukuharahisashi/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-test-internal.xml
-[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT plugin produced in /Users/fukuharahisashi/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-plugin.xml
-[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT sources produced in /Users/fukuharahisashi/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-sources.xml
-[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT docs produced in /Users/fukuharahisashi/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-docs.xml
-[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT pom produced in /Users/fukuharahisashi/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-pom.xml
-[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT scala-tool produced in /Users/fukuharahisashi/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-scala-tool.xml
-[debug] 	resolve done (2268ms resolve - 47ms download)
+[debug] :: resolution report :: resolve 996ms :: artifacts dl 30ms
+[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT compile produced in /Users/fukuharahisashi/work/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-compile.xml
+[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT runtime produced in /Users/fukuharahisashi/work/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-runtime.xml
+[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT test produced in /Users/fukuharahisashi/work/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-test.xml
+[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT provided produced in /Users/fukuharahisashi/work/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-provided.xml
+[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT optional produced in /Users/fukuharahisashi/work/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-optional.xml
+[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT compile-internal produced in /Users/fukuharahisashi/work/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-compile-internal.xml
+[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT runtime-internal produced in /Users/fukuharahisashi/work/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-runtime-internal.xml
+[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT test-internal produced in /Users/fukuharahisashi/work/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-test-internal.xml
+[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT plugin produced in /Users/fukuharahisashi/work/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-plugin.xml
+[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT sources produced in /Users/fukuharahisashi/work/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-sources.xml
+[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT docs produced in /Users/fukuharahisashi/work/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-docs.xml
+[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT pom produced in /Users/fukuharahisashi/work/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-pom.xml
+[debug] 	report for default#weather-bot-build;0.1-SNAPSHOT scala-tool produced in /Users/fukuharahisashi/work/weather-bot/weather-bot/project/target/resolution-cache/reports/default-weather-bot-build-scala-tool.xml
+[debug] 	resolve done (996ms resolve - 30ms download)
 [info] Done updating.
