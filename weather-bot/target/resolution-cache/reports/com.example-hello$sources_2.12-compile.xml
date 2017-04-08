@@ -7,7 +7,7 @@
 		revision="0.1.0-SNAPSHOT"
 		conf="compile"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20170304095927"/>
+		date="20170408113349"/>
 	<dependencies>
 		<module organisation="org.json4s" name="json4s-native_2.12">
 			<revision name="3.5.0" status="release" pubdate="20161104231615" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/json4s/json4s" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="8">
@@ -75,7 +75,7 @@
 				<metadata-artifact status="no" details="" size="4506" time="0" location="/Users/fukuharahisashi/.ivy2/cache/org.skinny-framework/skinny-http-client_2.12/ivy-2.3.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/skinny-framework/skinny-http-client_2.12/2.3.3/skinny-http-client_2.12-2.3.3.pom"/>
 				<caller organisation="com.example" name="hello$sources_2.12" conf="compile" rev="2.3.3" rev-constraint-default="2.3.3" rev-constraint-dynamic="2.3.3" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="skinny-http-client_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="9959" time="702" location="/Users/fukuharahisashi/.ivy2/cache/org.skinny-framework/skinny-http-client_2.12/srcs/skinny-http-client_2.12-2.3.3-sources.jar">
+					<artifact name="skinny-http-client_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="9959" time="0" location="/Users/fukuharahisashi/.ivy2/cache/org.skinny-framework/skinny-http-client_2.12/srcs/skinny-http-client_2.12-2.3.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/skinny-framework/skinny-http-client_2.12/2.3.3/skinny-http-client_2.12-2.3.3-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -87,7 +87,7 @@
 				<metadata-artifact status="no" details="" size="3203" time="0" location="/Users/fukuharahisashi/.ivy2/cache/org.skinny-framework/skinny-micro-common_2.12/ivy-1.2.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/skinny-framework/skinny-micro-common_2.12/1.2.2/skinny-micro-common_2.12-1.2.2.pom"/>
 				<caller organisation="com.example" name="hello$sources_2.12" conf="compile" rev="1.2.2" rev-constraint-default="1.2.2" rev-constraint-dynamic="1.2.2" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="skinny-micro-common_2.12" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="8051" time="690" location="/Users/fukuharahisashi/.ivy2/cache/org.skinny-framework/skinny-micro-common_2.12/srcs/skinny-micro-common_2.12-1.2.2-sources.jar">
+					<artifact name="skinny-micro-common_2.12" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="8051" time="0" location="/Users/fukuharahisashi/.ivy2/cache/org.skinny-framework/skinny-micro-common_2.12/srcs/skinny-micro-common_2.12-1.2.2-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/skinny-framework/skinny-micro-common_2.12/1.2.2/skinny-micro-common_2.12-1.2.2-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -111,7 +111,7 @@
 				<metadata-artifact status="no" details="" size="5199" time="0" location="/Users/fukuharahisashi/.ivy2/cache/org.slf4j/slf4j-api/ivy-1.7.22.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22.pom"/>
 				<caller organisation="com.example" name="hello$sources_2.12" conf="compile" rev="1.7.22" rev-constraint-default="1.7.22" rev-constraint-dynamic="1.7.22" callerrev="0.1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="slf4j-api" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="55650" time="2246" location="/Users/fukuharahisashi/.ivy2/cache/org.slf4j/slf4j-api/srcs/slf4j-api-1.7.22-sources.jar">
+					<artifact name="slf4j-api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="55650" time="0" location="/Users/fukuharahisashi/.ivy2/cache/org.slf4j/slf4j-api/srcs/slf4j-api-1.7.22-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22-sources.jar"/>
 					</artifact>
 				</artifacts>
