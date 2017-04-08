@@ -1,0 +1,5 @@
+val res = HTTP.get("http://weather.livedoor.com/forecast/webservice/json/v1?city=130010")
+val
+a
+object
+HTTP.get("http://weather.livedoor.com/forecast/webservice/json/v1?city=130010")
